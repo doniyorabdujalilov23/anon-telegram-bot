@@ -21,7 +21,7 @@ def run_server():
 
 # DİQQAT: @BotFather dan yangi token oling va bu yerga yozing!
 TOKEN = "8717578342:AAHfOuaZFiNwsCmyGezQLPqnvKvLMvHPojE"
-ADMIN_ID = 5578534822
+ADMIN_ID = 8237513097
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
